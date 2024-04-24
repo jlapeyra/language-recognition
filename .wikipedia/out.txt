@@ -1,0 +1,278 @@
+En química, una base és una substància que pot absorbir ions hidrogen (protons, H+) del medi o, d'una manera més general, cedir parells d'electrons.
+A una base soluble se l'anomena àlcali si conté i cedeix ions hidròxid (OH-) quantitativament. La teoria de Brønsted i Lowry defineix les bases com acceptants de protons (ions hidrogen), mentre que la teoria de Lewis, més general, defineix les bases com a cedents de parells d'electrons, cosa que permet que s'hi incloguin altres àcids de Lewis a part dels protons.[1]
+La teoria d'Arrhenius defineix les bases com anions hidròxid,[2] la qual cosa només és estrictament aplicable als àlcalis. En aigua, si se n'altera l'equilibri d'autoionització, les bases donen solucions amb una activitat química dels ions hidrogen menor que en aigua pura; per exemple, dissolent una base en aigua s'obté un pH més elevat que 7 en condicions estàndard.
+Un exemple clar de base és l'hidròxid de potassi (KOH), que prové de la reacció química KOH → OH− + K+ (en dissolució aquosa); també és un exemple de base l'amoníac. Els òxids metàl·lics, els hidròxids i, especialment, els alcòxids són bàsics, i els contraanions dels àcids febles són bases febles.
+Les bases es poden entendre com l'oposat químic dels àcids. La reacció entre un àcid i una base s'anomena neutralització. Les bases i els àcids són vists com a contraris perquè l'efecte d'un àcid és incrementar la concentració en aigua dels ions oxidani o oxoni (H₃O+), mentre que l'efecte de les bases és justament fer-la decréixer.
+Les bases i els àcids se solen trobar en dissolucions aquoses; les solucions aquoses bàsiques reaccionen amb solucions aquoses àcides per produir aigua i sals, les quals se separen en els seus ions components. Si la dissolució aquosa és una solució saturada respecte a un solut donat, qualsevol sal addicional d'aquest tipus present a la solució formarà un precipitat.
+Per a mesurar la basicitat d'un medi aquós s'utilitza el concepte de pOH, que es complementa amb el de pH de tal manera que pH + pOH = 14. De totes maneres, l'ús de pH està generalitzat tant per a àcids com per a bases.
+La definició inicial correspon a la formulada el 1887 per Arrhenius. La teoria de Brönsted-Lowry d'àcids i bases, formulada el 1923, diu que una base és aquella substància capaç d'acceptar un protó (H+). Aquesta definició engloba l'anterior: en l'exemple anterior, el KOH al dissociar-se en dissolució dona ions OH-, que són els que actuen com a base al poder acceptar un protó. Aquesta teoria també es pot aplicar en dissolvents no aquosos.
+L'any 1923, Gilbert Newton Lewis va ampliar encara més la definició d'àcids i bases, tot i que la seva teoria no tindria una repercussió important fins uns quants anys més tard. Segons la teoria de Lewis, una base és aquella substància que pot cedir un parell d'electrons. L'ió OH-, igual que altres ions o molècules com el NH₃, H₂O, etc., tenen un parell d'electrons no enllaçats, per la qual cosa són bases. Totes les bases segons la teoria d'Arrehnius o la de Brønsted i Lowry són al seu torn bases de Lewis.
+Algunes de les propietats generals de les bases són:[3]
+El químic suec Svante August Arrhenius va proposar una teoria de la dissociació electrolítica el 1887[5] que indicava que els electròlits, en dissolució aquosa o fusos, es dissocien parcialment en ions carregats elèctricament.
+Els electròlits es classifiquen en àcids, bases i sals. Segons Arrhenius, en concret, les bases són substàncies que en dissolució aquosa donen anions hidroxil, OH-, això és, contenen un o més grups hidroxil que poden ser substituïts per radicals àcids negatius per formar sals. per exemple:
+El químic danès Johannes Nicolaus Brønsted i l'anglès Thomas Martin Lowry, el 1923, publicaren de forma independent, una teoria sobre el comportament dels àcids i de les bases que superava la vigent, en aquells anys, teoria àcid-base d'Arrhenius, car podia aplicar-se a qualsevol tipus de dissolvent mentre que la d'Arrhenius només podia emprar-se per dissolucions aquoses.[6][7] Segons aquesta nova teoria, un àcid és una substància que pot cedir protons, i una base és una substància que en pot acceptar. Un àcid i una base són conjugats quan estan relacionats per l'equació:
+Com a exemples tenim:
+NH₄+  H+ + NH₃
+
+
+A + H₂O  H₃O+ + B
+
+
+
+		
+			
+			
+
+			
+		
+		
+			
+			
+Thomas Martin Lowry
+
+			
+		
+
+
+ àcid 1 + base 2  àcid 2 + base 1
+on l'àcid 1 és conjugat a la base 1 i l'àcid 2 ho és a la base 2. Cal observar que l'aigua pot actuar com àcid o com base.
+
+Exemples de la teoria de bases de Brønsted i Lowry: amoníac (NH₃), S2-, HS-.
+Teoria àcid-base de Lewis[modifica]
+Article principal: Teoria àcid-base de Lewis
+La teoria de Brønsted i Lowry no és suficientment àmplia per comprendre tots els casos de comportament àcid o bàsic de les substàncies, ja que és limitat a les reaccions amb intercanvi de protons. Hi ha substàncies que no tenen hidrogen i tenen comportament àcid, per exemple el diòxid de carboni, CO₂, o el triòxid de sofre, SO₃, es comporten com àcids, car en presència d'òxids bàsics, com ara l'òxid de calci, CaO, o l'òxid de sodi, Na₂O, en absència de dissolvent i, per tant, sense transferència de protons, reaccionen per a formar sals, el carbonat de sodi, CaCO₃ o el sulfat de sodi, Na₂SO₄,per exemple. Les reaccions podem representar-les amb les següents equacions químiques:
+
+CO₂ + CaO  CaCO₃
+SO₃ + Na₂O  Na₂SO₄
+De la mateixa manera la reacció entre el clorur de tionil, Cl₂SO, i el sulfit de potassi, K₂SO₃, dissolts en diòxid de sofre líquid reaccionen segons l'equació:
+
+ 2 Cl- + SO2+ + SO₃2- + 2 K+  2 Cl- + 2 K+ + 2 SO₂ 
+que tampoc inclou protòlisi, és a la reacció en dissolució aquosa entre l'àcid clorhídric, HCl, i l'hidròxid de sodi, NaOH, que sí que es pot explicar amb la teoria de Brønsted i Lowry:
+
+ Cl- + H₃O+ + Na+ + OH-  Cl- + Na+ + 2 H₂O 
+Aquestes reaccions impliquen la cessió parcial, mitjançant enllaç covalent datiu, d'una parella d'electrons d'un àtom d'oxigen a un altre àtom.
+Aquests fet varen dur a Gilbert Newton Lewis a enunciar l'any 1923[8] i a desenvolupar l'any 1938 una teoria més general d'àcid i bases, en la qual es defineix que:
+
+Un àcid és tota substància, molecular o iònica, que pot acceptar una parella d'electrons.
+Una base és tota substància que pot cedir una parella d'electrons.
+La teoria de Lewis no proporciona, però, una estimació quantitativa de la reacció de les bases amb els àcids. Per aquest motiu, s'acostuma a aplicar una avaluació qualitativa coneguda com a Teoria àcid-base dur-tou de Pearson (coneguda amb les sigles HSAB), que descriu com els àcids tous reaccionen més ràpidament i formen enllaços més forts amb bases toves, mentre que els àcids durs reaccionen més ràpid i formen enllaços més forts amb bases dures, mantenint-se iguals tots els altres factors.[9] La classificació al treball original estava basada en les constants d'equilibri per a les reaccions de dos bases de Lewis competint per un àcid de Lewis.
+
+
+
+Els àcids durs i les bases dures tendeixen a tenir:
+
+radi iònic/atòmic petits
+estat d'oxidació alt
+polaritzabilitat baixa
+electronegativitat alta
+HOMO de baixa energia, en el cas de les bases, i LUMO d'alta energia, en el cas dels àcids.[9]
+Bases i pH[modifica]
+El pH d'una mostra aquosa és una mesura de la seva acidesa.[10] En l'aigua pura, aproximadament un de cada deu milions de molècules de dissociar en ions d'oxoni (H₃O+) i els ions d'hidròxid (OH-), d'acord amb la següent equació:
+
+2H₂O(l) → H₃O+(aq) + OH−(aq)
+La concentració, mesurada en molaritat (M o mols per dm³), de la qual s'indica com ions [H₃O+] i [OH−], i el seu producte és la constant de dissociació de l'aigua i té el valor 10−7 M. El pH es defineix com a −log [H₃O+], per la qual cosa l'aigua pura té un pH de 7. Aquests nombres són correctes a 23 °C i són lleugerament diferents a altres temperatures.
+Una base accepta (treu) hydronium ions (H₃O+) de la solució, o dona dels ions d'hidròxid (OH−) a la solució. Ambdues accions es baixa la concentració d'ions hydronium i, per tant, augmentar el pH. Per contra, un àcid dona ions H₃O+ a la solució o l'accepta OH−, per tant, un descens de pH.
+Per exemple, si 1 mol d'hidròxid de sodi (40 g) es dissol en aigua per fer 1 litre de solució, la concentració dels ions d'hidròxid es converteix en [OH−] = 1 mol/L. Per tant [H+] = 10−14 mol/L, and pH = −log 10−14 = 14. Tingueu en compte que en aquest càlcul, se suposa que l'activitat és equivalent a la concentració, que no és realista en les concentracions de més de 0.1 mol dm−3.
+La base de la dissociació o constant Kb és una mesura de basicitat. PKB és la negativa de registre de Kb i els relatius a la dels valors de pKa per la simple relació dels valors de pKa + pKb = 14.
+L'alcalinitat és una mesura de la capacitat d'una solució per a neutralitzar els àcids a l'equivalència de punts de carbonats o hidrogencarbonats.
+
+Neutralització d'àcids[modifica]
+Article principal: Reacció de neutralització
+Quan es dissol en l'aigua una base forta, com l'hidròxid de sodi, aquesta es descompon (en aquest cas en els ions sodi i hidròxid):
+
+NaOH → Na+ + OH−
+De la mateixa manera, si es dissol en aigua un àcid també es dissocia; per exemple, en dissoldre el clorur d'hidrogen (àcid clorhídric) es formen ions oxoni i ions clorur:
+
+HCl + H₂O → H₃O+ + Cl−
+Quan les dues solucions amb els ions dissociats es barregen, els ions H₃O+ i els ions OH− es combinen per formar molècules d'aigua:
+
+H₃O+ + OH− → 2H₂O
+Si es dissolen les mateixes quantitats d'hidròxid de sodi i d'àcid clorhídric, la base i l'àcid es neutralitzen de manera exacta, deixant només NaCl en forma de precipitat (sal comuna) i aigua. De forma general es pot dir que:[11]
+
+
+Per neutralitzar els vessaments de qualsevol àcid s'han d'utilitzar bases febles, com la sosa o la clara d'ou. Si s'intenta neutralitzar el vessament d'un àcid amb una base forta com l'hidròxid de sodi o l'hidròxid de potassi, es pot provocar una violenta reacció exotèrmica, i l'acció de la mateixa base pot causar tant de mal com el vessament d'àcid.
+
+Alcalinitat dels no-hidròxids[modifica]
+Les bases són generalment compostos que poden neutralitzar una gran quantitat d'àcids. Tant l'amoníac com el carbonat de sodi són bases, encara que cap d'aquestes substàncies contenen grups OH−. Ambdós compostos accepten H+ quan es dissolen en l'aigua:
+
+Na₂CO₃ + H₂O → 2 Na+ + HCO₃− + OH−
+NH₃ + H₂O → NH₄+ + OH−
+A partir d'això, un pH o acidesa, pot ser calculat per a solucions aquoses de bases. Bases d'actuar també directament com parell electró-donants:
+
+CO₃2− + H+ → HCO₃−
+NH₃ + H+ → NH₄+
+El carboni pot actuar com a base, i també el nitrogen i l'oxigen. Això succeeix habitualment en compostos com butil de liti, alcòxids i amides de metalls, com l'amida de sodi. Les bases de carboni, nitrogen i oxigen sense la ressonància estabilitzada solen ser molt fortes; s'anomenen superbases, i no poden existir en una solució d'aigua degut a la mateixa acidesa de l'aigua. L'estabilització de la ressonància, però, ho permet a bases més febles com els carboxilats; per exemple, l'acetat de sodi és una base feble.
+
+Bases fortes i febles[modifica]
+Hidròxid de potassi (KOH)
+Una base forta és la que es dissocia completament en l'aigua, és a dir, aporta el màxim nombre d'ions OH-. Per exemple, l'hidròxid de potassi és una base forta.
+
+KOH → OH− + K+ (en dissolució aquosa)
+La teoria de Bronsted - Lowry quantifica la força de les bases, és a dir, la seva capacitat per a escindir un protó de l'àcid. Es mesura mitjançant la constant Kb - la constant d'equilibri de la reacció amb la base d'àcid de comparació. Com més gran sigui la constant de basicitat, més gran serà la força de la base i més gran és la seva capacitat per escindir els protons. Habitualment la constant de basicitat s'expressa com l'índex de basicitat constants pKb. Per exemple, l'amoníac com una base de Bronsted pot ser descrit:
+
+
+
+
+
+Per a bases polibàsiques es poden obtenir diversos valors de les constants de dissociació Kb1, Kb2, etc Per exemple, un ió fosfat pot estar protonat tres vegades
+
+
+
+
+
+La potència de la base també es pot caracteritzar per la constant d'acidesa del seu àcid conjugat Ka (BH+), on la basicitat del producte és constant Kb per una constant Ka (BH+), el producte iònic de l'aigua per a solucions aquoses, i la constant d'autoprotòlisi del dissolvent general.
+
+
+
+
+
+Altres exemples de bases fortes són els hidròxids dels metalls alcalins i les terres alcalines:
+
+Hidròxid de potassi (KOH) o potassa càustica
+Hidròxid de bari (Ba(OH)₂)
+Hidròxid de cesi (CsOH)
+Hidròxid de sodi (NaOH) o sosa càustica
+Hidròxid d'estronci (Sr(OH)₂)
+Hidròxid de calci (Ca(OH)₂), també conegut com a calç morta o calç apagada
+Hidròxid de liti (LiOH)
+Hidròxid de rubidi (RbOH)
+Hidròxid de magnesi (Mg(OH)₂)
+Una base feble també aporta ions OH− al medi, però està en equilibri el nombre de molècules dissociades amb les que no ho estan.
+
+Al(OH)3 ⇔ 3OH− + Al+
+En aquest cas, l'hidròxid d'alumini està en equilibri (descomponent-se i formant-se contínuament) amb els ions que genera. La constant de basicitat (Kb) d'una base indica el seu grau de dissociació.
+Donada una base B, en dissoldre-la en aigua s'obté el seu àcid conjugat BH+:
+
+B(aq) + H₂O(l) → BH+(aq) + OH-(aq)
+I serà valida la següent equació (només per bases febles), que relaciona la concentració amb la constant de basicitat;
+
+
+
+ Valors de pKb i pKa de l'àcid conjugat en solucions aquoses diluïdes 
+ 
+
+
+
+Superbases[modifica]
+Article principal: Superbase
+Diisopropilamida de liti
+Les sals del grup 1 de carbanions, amides i hidrurs tendeixen a ser unes bases encara més fortes a causa de l'extrema feblesa dels seus àcids conjugats, que són hidrocarburs, amines i dihidrògens, respectivament. Normalment, aquestes bases es creen afegint metalls alcalins purs –tals com el sodi– a l'àcid conjugat.[12] S'anomenen superbases i no és possible mantenir-les en dissolució aquosa a causa del fet que són bases més fortes que l'ió hidròxid, per la qual cosa desprotonen l'aigua de l'àcid conjugat. Per exemple, l'ió etòxid (base conjugada de l'etanol) en presència d'aigua experimenta la següent reacció:
+
+CH3CH2O− + H2O → CH3CH2OH + OH−
+Algunes superbases són:
+
+N-butil-liti (n-BuLi)
+Diisopropilamida de liti (C6H14LiN)
+Dietilamida de liti
+Amida de sodi (NaNH₂)
+Hidrur de sodi (NaH)
+Bis(trimetilsilil)amida de liti (((CH3)3Si)2NLi)
+Neutralització dels àcids[modifica]
+Quan una base forta, com l'hidròxid de sodi, es dissol en aigua es descompon en ions hidròxid (-OH) i ions de sodi:
+
+NaOH → Na+ + OH−
+de manera similar, l'àcid clorhídric o clorur d'hidrogen es dissol en aigua formant ions oxoni (H₃ O+) i ions de clor:
+
+HCl + H₂O → H₃O+ + Cl−
+Quan barregem les dues solucions, els ions H₃O+ i OH- es combinen per formar molècules d'aigua:
+
+H₃O+ + OH− → 2 H₂O
+Si dissolem quantitats iguals de NaOH i HCl, la base i l'àcid es neutralitzen de manera exacta, deixant només NaCl, sal comuna, en solució.
+Les bases febles, com la soda o la clara d'ou, poden ser utilitzades per neutralitzar els vessaments d'àcid. La utilització de bases fortes com l'hidròxid de sodi o l'hidròxid de potassi podrien causar una reacció exotèrmica violenta amb uns efectes més perillosos que el vessament d'àcid original.
+
+Bases com a catalitzadors[modifica]
+Les substàncies bàsiques es poden utilitzar com a catalitzadors heterogenis solubilitat insolubles de reaccions químiques. Alguns exemples són els òxids metàl·lics com ara l'òxid de magnesi, l'òxid de calci, i l'òxid de bari, així com el fluorur de potassi en alúmina i algunes zeolites. Molts metalls de transició fan de bons catalitzadors, molts dels quals formen substàncies bàsiques. Alguns catalitzadors bàsics s'han utilitzat per a hidrogenacions, la migracions de doble enllaç, en la reducció de Meerwein-Ponndorf-Verley, la reacció de Michael, i moltes altres reaccions.
+
+Referències[modifica]
+
+
+↑ Chemistry, p. 363
+
+↑ Chemistry, p. 349
+
+↑ Física i química, p. 264
+
+↑ «Base definition» (en anglès).   Merriam-Webster. [Consulta: 21 juny 2013].
+
+↑ Arrhenius, S.A. «On the Dissociation of Substances Dissolved in Water» (en anglès, traducció). Zeitschrift fur physikalische Chemie, I, 1887, pàg. 631.
+
+↑ Brønsted, J.N. «Some Remarks on the Concept of Acids and Bases» (en anglès, traducció de l'original en francès). Recueil des Travaux Chimiques des Pays-Bas [Països Baixos], 42, 1923, pàg. 718-728.
+
+↑ Lowry, T.M Chem. Ind. [Londres], 42, 43, 1923.
+
+↑ Lewis, G.N.. Valence and the Structure of Molecules (en anglès).  Nova York: The Chemical Catalogue Co., 1923. 
+
+↑ 9,0 9,1 IUPAC, Glossary of terms used in theoretical organic chemistry, consulta 16 Des 2006.
+
+↑ «pH». Gran Enciclopèdia Catalana.  Barcelona:  Grup Enciclopèdia Catalana.
+
+↑ Física i química, p. 266
+
+↑ McNaught, A.D.; Wilkinson, A. IUPAC. Compendium of Chemical Terminology, the "Gold Book" (en anglès). 2a edició.  Oxford: Blackwell Scientific Publications, 1997. DOI 10.1351/goldbook.S06135. ISBN 0-9678550-9-8 [Consulta: 13 abril 2022]. 
+
+
+Bibliografia[modifica]
+A. Caamaño, D. Obach, E. Pérez-Rendón. «10». A: Física i química.  Teide, 2005. ISBN 8430746528. 
+Kenneth W. Whitten, Larry Peck, Raymond E. Davis, Lisa Lockwood, George G. Stanley. Brooks Cole. Chemistry (en anglès), 2009. ISBN 0495391638. 
+Vegeu també[modifica]
+Àcid
+Reacció àcid-base
+Base conjugada
+Enllaços externs[modifica]
+
+«Lliçó sobre els àcids i les bases» (en anglès).  Berkeley:  Universitat de Califòrnia. [Consulta: 20 juny 2013].
+
+
+
+
+
+
+Obtingut de «https://ca.wikipedia.org/w/index.php?title=Base_química&oldid=31782988»
+					Categoria: Bases químiquesCategories ocultes: Pàgines amb enllaç commonscat des de Wikidata1.000 articles fonamentalsCiència (Els 1000 de META)Control d'autoritats
+				
+			
+			
+		
+		
+			
+
+	
+	 La pàgina va ser modificada per darrera vegada el 4 juny 2023 a les 14:40.
+	El text està disponible sota la  Llicència de Creative Commons Reconeixement i Compartir-Igual; es poden aplicar termes addicionals.
+Vegeu les Condicions d'ús.
+Wikipedia® (Viquipèdia™) és una marca registrada de Wikimedia Foundation, Inc.
+
+
+	
+	Política de privadesa
+	Quant al projecte Viquipèdia
+	Descàrrec de responsabilitat
+	Versió per a mòbils
+	Desenvolupadors
+	Estadístiques
+	Declaració de cookies
+
+
+	
+	
+	
+
+
+
+
+		
+	 
+ 
+
+	
+
+
+Commuta la limitació d'amplada del contingut
+
+
+
+
+
+
+
+

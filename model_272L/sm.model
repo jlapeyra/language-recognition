@@ -1,0 +1,833 @@
+Basic Latin
+Basic Latin/Latin-1 Supplement
+abcdefghijklmnopqrstuvwxyzàáäèéëíóöüıə
+    11
+  ? 7
+  a 137
+  b 4
+  c 2
+  e 91
+  f 104
+  g 8
+  i 126
+  k 6
+  l 230
+  m 126
+  n 32
+  o 191
+  p 67
+  r 1
+  s 113
+  t 159
+  u 28
+  v 13
+ ?? 2
+ ?i 1
+ ?l 1
+ ?m 2
+ ?t 1
+ a  14
+ aa 2
+ ae 7
+ af 1
+ ag 2
+ ai 31
+ al 3
+ am 2
+ an 2
+ ao 13
+ as 2
+ at 31
+ au 20
+ av 7
+ ba 4
+ ca 1
+ cu 1
+ e  76
+ eg 3
+ el 2
+ er 2
+ es 1
+ eu 7
+ fa 84
+ fe 9
+ fi 3
+ fo 6
+ fu 2
+ ga 8
+ i  82
+ ia 11
+ ig 1
+ il 2
+ in 7
+ is 4
+ it 15
+ iu 4
+ ki 3
+ ko 2
+ ku 1
+ l? 1
+ la 29
+ le 175
+ li 2
+ lo 13
+ lu 10
+ m? 4
+ ma 97
+ me 12
+ mi 2
+ mo 7
+ mu 4
+ na 13
+ ne 4
+ ni 6
+ no 4
+ nu 5
+ o  160
+ of 1
+ og 3
+ oi 1
+ ol 5
+ on 16
+ oo 3
+ os 2
+ pa 9
+ pe 23
+ pi 6
+ po 25
+ pu 4
+ ro 1
+ sa 19
+ sc 1
+ se 56
+ si 22
+ so 5
+ sp 2
+ su 8
+ ta 88
+ te 15
+ ti 1
+ tl 1
+ to 16
+ tu 38
+ ua 13
+ ui 7
+ ul 2
+ um 5
+ up 1
+ va 12
+ ve 1
+??  2
+??? 10
+?a  3
+?aa 1
+?ai 1
+?al 3
+?am 10
+?ao 1
+?at 3
+?au 1
+?e  2
+?fa 3
+?i  3
+?ia 1
+?ig 2
+?in 1
+?it 2
+?la 1
+?li 1
+?ma 2
+?o  8
+?og 1
+?t? 1
+?to 1
+?u  1
+?ui 1
+a?  1
+a?a 19
+a?e 1
+a?i 8
+a?o 2
+aa  1
+aaa 8
+aae 2
+aaf 1
+aag 2
+aai 4
+aal 22
+aam 5
+aao 2
+aas 9
+aat 10
+aau 4
+aav 8
+ae  12
+aeg 5
+aei 1
+ael 1
+aem 1
+af? 1
+afa 17
+afe 2
+afi 1
+afo 5
+afu 7
+aga 53
+agi 12
+ago 4
+ai  69
+aia 8
+aig 16
+ail 1
+aim 5
+ain 11
+aio 1
+ais 1
+ait 15
+aiu 1
+aiv 1
+aka 1
+ake 3
+aki 2
+ala 43
+alb 1
+ale 13
+ali 10
+alk 1
+alo 32
+alu 3
+ama 30
+ame 2
+amo 2
+amu 4
+an  1
+ana 16
+ane 1
+ani 26
+ann 1
+ans 2
+anu 5
+ao  2
+aoa 3
+aof 10
+aog 6
+aoi 3
+aol 2
+aon 2
+aop 1
+aot 3
+ap? 1
+apa 2
+api 1
+apo 6
+ara 3
+aro 1
+as  1
+asa 12
+ase 6
+asi 19
+aso 6
+asu 1
+ata 51
+ate 3
+ati 5
+ato 8
+att 2
+atu 33
+au  19
+au? 1
+aua 17
+auc 1
+auf 8
+aug 4
+aui 5
+aul 1
+aum 10
+aun 1
+aur 1
+aus 2
+aut 16
+auu 1
+auv 1
+ava 15
+ave 7
+ba  1
+bal 1
+ban 2
+bat 2
+bli 1
+cas 1
+cau 1
+ch  1
+che 1
+cub 1
+der 1
+die 1
+doe 2
+e?a 4
+ea  26
+eag 2
+eai 3
+ean 1
+eat 1
+ede 1
+efa 2
+efi 3
+efu 5
+ega 10
+ege 4
+ei  15
+eia 3
+eil 1
+ein 5
+eit 1
+eki 6
+el? 1
+ela 10
+ele 21
+eli 1
+ell 1
+ema 2
+emo 1
+emu 1
+en  1
+ena 4
+ene 4
+eng 1
+eni 8
+eo  1
+eol 1
+era 6
+ere 2
+erg 1
+eri 7
+eru 1
+es  1
+esa 1
+ese 2
+esi 1
+eso 1
+esu 1
+eta 4
+ete 9
+eti 5
+eto 1
+etu 8
+eu  1
+eug 2
+eur 9
+f?  1
+fa  1
+fa? 19
+faa 48
+faf 3
+fai 27
+fal 6
+fan 5
+far 2
+fau 6
+fea 1
+fed 1
+fef 2
+fer 1
+fes 3
+fet 6
+fi  2
+fia 9
+fik 3
+fil 2
+fo  9
+foa 2
+fog 2
+foi 6
+fon 2
+foo 1
+fu  4
+fua 5
+ful 5
+g?  1
+ga  82
+gaf 1
+gag 6
+gai 5
+gal 2
+gan 6
+gao 1
+gat 31
+gea 1
+gel 3
+gen 1
+gi  15
+gia 1
+gii 6
+gil 1
+go  1
+goa 2
+gol 1
+gon 2
+gs  1
+hen 1
+ia  49
+ia? 2
+iaa 1
+iaf 1
+iai 3
+iak 2
+iam 4
+iao 1
+iap 1
+ieg 1
+iei 1
+ies 1
+ifa 1
+ife 1
+ifo 4
+iga 23
+igo 2
+iig 1
+iin 7
+iit 2
+ik? 1
+ika 6
+iki 4
+iko 6
+iká 1
+ile 2
+ili 12
+ilo 7
+imi 5
+in? 1
+ina 31
+ind 3
+ine 1
+ing 4
+ini 7
+inn 1
+ino 9
+io  1
+ioi 2
+iol 1
+ion 2
+iri 3
+isa 1
+ise 7
+isi 24
+ism 1
+ita 20
+itc 1
+ite 4
+iti 15
+ito 11
+itu 14
+iu  1
+iug 1
+iun 4
+ius 2
+iva 2
+k?  1
+ka  6
+kal 1
+kan 1
+kap 1
+ket 3
+ki  1
+kii 1
+kir 3
+kis 6
+kit 4
+ko  5
+koa 1
+kon 2
+kup 1
+kyo 1
+ká  1
+l?  2
+la  12
+laa 2
+laf 12
+lag 27
+lai 2
+lak 1
+lal 6
+lam 6
+lan 9
+lap 4
+las 2
+lat 3
+lau 8
+lav 7
+lba 1
+le  172
+lea 12
+leg 2
+lei 7
+lel 6
+lem 1
+len 8
+leo 2
+let 5
+li  8
+lia 6
+lie 2
+lik 1
+lil 2
+lin 1
+lio 1
+lis 3
+lit 3
+liu 3
+liv 1
+lka 1
+lli 1
+lm  1
+lo  27
+lo? 2
+loa 10
+lof 1
+log 9
+loi 1
+lol 6
+lon 8
+loo 2
+lop 5
+los 2
+lot 3
+lu  4
+lua 8
+lue 2
+lug 5
+lul 1
+lut 1
+m?f 3
+m?t 1
+ma  46
+maf 11
+mag 1
+mai 16
+mak 3
+mal 21
+man 10
+mao 6
+map 1
+mar 1
+mas 7
+mat 11
+mau 11
+mea 6
+mek 6
+mer 3
+mi  8
+mil 1
+mis 1
+mo  4
+mo? 1
+moe 1
+mok 1
+mon 2
+mot 2
+mu  1
+mua 7
+muf 1
+mum 1
+mup 1
+n?  1
+na  80
+na? 2
+nae 1
+nag 1
+nai 1
+nan 1
+nao 1
+nap 1
+nas 1
+nat 3
+nau 2
+ndi 1
+ndo 2
+nei 6
+ner 1
+nes 1
+net 4
+ng  3
+nge 1
+ngs 1
+ni  33
+nia 4
+nif 1
+nik 1
+nin 3
+nio 1
+nis 8
+nit 5
+nni 2
+no  10
+noa 1
+nof 4
+nog 1
+nom 1
+non 2
+ns  1
+nsh 1
+nu  8
+nu? 1
+nua 3
+nug 1
+num 1
+nuu 20
+o?e 1
+o?o 7
+oa  17
+oai 6
+oat 2
+oe  3
+oet 1
+oeu 2
+ofa 3
+ofe 1
+ofi 9
+ofo 6
+og? 1
+oga 26
+ogi 10
+oi  9
+oig 1
+oin 3
+oio 1
+oka 1
+oky 1
+ola 9
+ole 2
+oli 1
+olo 24
+oma 2
+ona 28
+one 2
+oni 4
+ono 6
+onu 9
+oo  8
+oof 1
+oon 1
+oop 1
+oot 1
+opa 9
+opi 5
+opo 6
+ose 1
+osi 2
+oso 1
+ota 1
+oti 3
+oto 21
+otu 3
+ou  1
+p?l 1
+pa  9
+pai 1
+pal 2
+pan 3
+pap 1
+par 1
+pas 3
+pat 2
+pe  24
+pe? 4
+pea 6
+peg 1
+pei 6
+pel 1
+pen 1
+per 3
+pet 1
+pi  1
+pii 1
+pin 1
+pit 10
+po  7
+po? 3
+poi 1
+pol 14
+pon 1
+poo 3
+pot 8
+pu  1
+pub 1
+pue 1
+pul 2
+ra  1
+ral 5
+ran 3
+ras 1
+ret 2
+rgi 1
+ri  5
+ria 3
+rik 6
+ro  2
+rom 1
+rop 9
+ru  1
+sa  9
+sae 2
+sai 2
+sal 1
+sam 2
+san 6
+sao 3
+sap 1
+sas 2
+sat 1
+sau 8
+sch 1
+se  48
+sef 8
+sei 3
+sel 6
+sen 4
+ses 1
+set 2
+sh  1
+si  25
+sia 14
+sif 5
+sik 7
+sil 8
+sin 4
+sio 2
+sis 4
+sit 3
+sm  1
+so  1
+so? 2
+soa 1
+sof 1
+sol 5
+soo 3
+spa 2
+str 1
+sue 2
+sui 7
+sus 1
+t?  1
+ta  29
+ta? 4
+taa 15
+taf 2
+tag 26
+tai 16
+tal 28
+tam 6
+tan 3
+tao 1
+tas 12
+tat 1
+tau 23
+tch 1
+te  13
+tel 15
+tem 2
+ten 3
+ter 5
+tet 1
+teu 3
+ti  12
+tia 3
+tii 2
+tin 10
+tis 5
+tlm 1
+to  10
+toa 5
+toe 3
+tof 1
+tog 15
+tok 1
+tol 1
+ton 9
+top 4
+tot 11
+tou 1
+tra 1
+tti 2
+tu  23
+tua 8
+tug 1
+tui 1
+tul 10
+tum 2
+tun 15
+tup 22
+tur 4
+tus 6
+tut 5
+tuu 4
+u?u 2
+ua  32
+ua? 3
+uaa 1
+uaf 1
+uag 1
+uai 8
+ual 2
+uam 3
+uao 3
+uas 2
+uat 1
+uau 4
+uba 1
+ubl 1
+uca 1
+ueg 2
+uei 1
+uet 2
+ufa 7
+ufe 1
+ufo 1
+uga 14
+ui  4
+uia 1
+uig 4
+uil 3
+uin 4
+uis 1
+uit 5
+ula 9
+ule 2
+uli 2
+ulu 8
+uma 12
+ume 1
+umi 3
+umo 1
+umu 2
+una 2
+uni 3
+unu 15
+upe 24
+upi 1
+upu 1
+uri 4
+uro 10
+us  3
+usa 4
+usi 4
+ust 1
+uta 2
+ute 11
+uti 1
+uto 3
+utu 5
+uu  22
+uui 1
+uup 1
+uus 1
+uva 1
+va  14
+va? 1
+vae 8
+vag 1
+vai 3
+vas 3
+vea 7
+ver 1
+yo  1

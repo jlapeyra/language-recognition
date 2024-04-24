@@ -1,0 +1,964 @@
+Basic Latin
+Basic Latin/Latin-1 Supplement
+abcdefghijklmnopqrstuvwxyzàáäèéëíóöüıə
+    43
+  1 48
+  ? 126
+  b 62
+  c 220
+  d 166
+  f 1
+  g 262
+  h 125
+  i 40
+  k 51
+  l 70
+  m 80
+  n 124
+  p 12
+  s 262
+  t 28
+  u 12
+  á 5
+  é 6
+ 1  30
+ 1g 2
+ 1i 1
+ 1n 15
+ ?  42
+ ?? 42
+ ?c 2
+ ?d 1
+ ?g 13
+ ?h 6
+ ?i 1
+ ?k 4
+ ?l 2
+ ?n 11
+ ?s 1
+ ?u 1
+ b1 7
+ b? 7
+ ba 1
+ bi 2
+ bo 1
+ bu 19
+ bá 17
+ bé 1
+ bó 7
+ c1 31
+ c? 47
+ ch 25
+ ci 75
+ cu 4
+ cà 1
+ cá 2
+ cé 10
+ có 25
+ d1 43
+ d? 54
+ di 31
+ du 6
+ dà 8
+ dá 8
+ dé 11
+ dó 5
+ fe 1
+ g1 136
+ g? 51
+ gi 20
+ gu 20
+ gà 7
+ gá 17
+ gé 1
+ gó 10
+ h  2
+ h1 25
+ h? 41
+ hi 8
+ hu 41
+ hà 2
+ há 4
+ hè 1
+ hó 1
+ i1 23
+ i? 15
+ ir 1
+ is 1
+ k? 16
+ ka 2
+ ki 1
+ ku 2
+ ká 5
+ ké 12
+ kó 13
+ l1 21
+ l? 44
+ li 3
+ lo 1
+ là 1
+ m1 36
+ m? 14
+ ma 2
+ mi 16
+ mu 11
+ mé 1
+ n  5
+ n1 8
+ n? 5
+ ng 35
+ ni 29
+ nà 12
+ nè 28
+ né 1
+ nó 1
+ pu 4
+ pá 8
+ s1 99
+ s? 51
+ sa 1
+ sc 1
+ si 86
+ su 1
+ sv 1
+ sá 3
+ sè 14
+ sé 5
+ t1 2
+ t? 8
+ ti 4
+ tà 5
+ tá 9
+ u1 9
+ u? 3
+ án 5
+ é  1
+ éd 2
+ én 3
+1?  4
+1?? 4
+1?k 1
+1?n 4
+1?s 8
+1ch 2
+1ci 1
+1d1 3
+1d? 3
+1dó 3
+1en 22
+1g? 12
+1gi 1
+1h1 6
+1hu 14
+1hó 1
+1i  43
+1i1 4
+1ib 1
+1ic 7
+1id 3
+1ig 2
+1ii 3
+1il 2
+1im 2
+1is 4
+1iu 11
+1k? 1
+1ká 1
+1n? 2
+1ng 209
+1ni 1
+1nó 1
+1s? 1
+1u  21
+1un 7
+1ék 1
+?1n 1
+??  53
+??? 70
+??g 1
+??k 3
+??u 1
+?b1 1
+?b? 1
+?bi 1
+?bu 3
+?bó 2
+?c1 1
+?c? 3
+?ch 1
+?ci 10
+?cá 1
+?d? 2
+?di 2
+?dá 1
+?el 1
+?g1 3
+?g? 19
+?gu 5
+?gá 4
+?gé 1
+?h  63
+?h1 6
+?h? 7
+?hc 3
+?hh 1
+?hi 1
+?hn 1
+?hu 2
+?há 2
+?i  18
+?i1 5
+?ig 4
+?ih 1
+?ii 1
+?il 2
+?im 1
+?is 4
+?ié 1
+?k  93
+?k? 1
+?kb 6
+?kc 19
+?kg 4
+?kh 2
+?kl 2
+?kn 2
+?ks 16
+?kt 3
+?ku 4
+?ká 4
+?ké 1
+?l1 3
+?l? 3
+?la 1
+?li 1
+?lé 7
+?m? 2
+?n1 1
+?ng 350
+?ni 1
+?nè 1
+?s1 6
+?s? 3
+?si 19
+?sá 1
+?sè 1
+?só 2
+?u  13
+?uc 1
+?ud 1
+?ug 1
+?un 1
+?us 2
+?uu 1
+?uá 1
+?ài 1
+ad  1
+ad? 1
+agh 1
+aha 1
+ai  1
+anb 1
+and 1
+ang 2
+aq  1
+ara 1
+arl 2
+arr 1
+arx 2
+ay  1
+b1  8
+b1i 1
+b1n 8
+b?c 1
+b?g 1
+b?h 2
+b?n 7
+b?u 1
+ba  1
+bad 1
+bag 1
+bai 1
+bay 1
+bi? 5
+bié 4
+bom 1
+bu1 13
+bu? 17
+bul 1
+buo 1
+buó 1
+báe 16
+báh 2
+bái 3
+bék 1
+bók 9
+bón 1
+c1  8
+c1? 6
+c1g 7
+c1h 3
+c1i 6
+c1n 2
+c1u 8
+c?  20
+c?b 2
+c?g 1
+c?h 3
+c?i 4
+c?k 2
+c?n 39
+c?s 1
+c?u 1
+ch1 4
+ch? 24
+che 2
+chi 9
+chw 1
+chá 2
+ché 6
+chó 6
+ci1 1
+ci? 76
+ciá 33
+ciè 3
+cié 5
+ció 1
+co  2
+cu1 2
+cub 2
+cài 2
+cái 1
+cát 1
+cáu 2
+cék 4
+cén 8
+có  12
+cóc 2
+cói 11
+cós 1
+d1  13
+d1c 1
+d1e 1
+d1h 1
+d1i 25
+d1k 1
+d1n 22
+d1u 1
+d?  20
+d?e 1
+d?k 15
+d?n 46
+d?u 1
+dad 1
+di  1
+di1 9
+di? 25
+diè 17
+dié 2
+dov 1
+du1 6
+dà  2
+dài 4
+dàk 1
+dàn 1
+dàu 1
+dá  15
+dái 6
+dán 9
+dáu 1
+dé  2
+dé? 11
+dód 1
+dói 6
+dón 2
+e?l 1
+eiz 1
+ek  11
+ekb 5
+ekg 5
+ela 2
+elo 3
+eng 22
+era 1
+fe  1
+g1  118
+g1? 4
+g1d 5
+g1e 21
+g1i 3
+g1n 7
+g1u 10
+g?  64
+g?? 9
+g?c 2
+g?d 1
+g?g 4
+g?h 1
+g?i 7
+g?k 26
+g?n 44
+g?s 3
+g?u 1
+gb1 2
+gb? 2
+gbi 3
+gbu 2
+gbá 3
+gbó 1
+gc1 8
+gc? 13
+gch 14
+gci 10
+gcá 1
+gcé 1
+gd1 15
+gd? 7
+gdi 16
+gdà 1
+gdá 21
+gdé 1
+gdó 1
+gel 2
+gg1 4
+gg? 18
+ggi 4
+ggu 19
+ggá 13
+ggé 1
+gh1 2
+gh? 3
+ghd 1
+ghi 3
+ghu 8
+gi1 29
+gi? 10
+già 1
+gié 9
+gió 6
+gk? 2
+gki 1
+gku 1
+gká 1
+gl1 5
+gl? 11
+gli 1
+gm1 6
+gm? 2
+gmi 1
+gn1 2
+gn? 2
+gng 7
+gni 2
+gnà 2
+gp? 1
+gs1 6
+gs? 11
+gsi 1
+gsé 3
+gsó 1
+gt? 2
+gti 3
+gu1 19
+gu? 12
+guá 1
+guó 45
+gàd 7
+gài 2
+gàn 1
+gá  1
+gáe 5
+gái 13
+gán 1
+gáu 22
+gé  1
+gék 8
+gén 1
+gó  4
+góc 3
+gód 1
+gól 2
+h1  27
+h1h 2
+h1i 12
+h1n 7
+h1u 1
+h?  13
+h?b 3
+h?c 1
+h?h 1
+h?i 3
+h?k 25
+h?l 7
+h?n 28
+h?u 1
+har 1
+hc? 1
+hch 1
+hcé 1
+hda 1
+hdi 1
+hel 2
+hh1 1
+hi1 6
+hi? 9
+hiè 2
+hié 3
+hió 2
+hni 1
+hs? 1
+hsá 2
+hu1 28
+hu? 15
+huà 1
+huá 20
+huó 3
+hwe 1
+hàn 2
+hái 1
+hán 6
+háu 1
+hèn 1
+hé? 2
+hék 2
+héu 2
+hók 8
+i1  41
+i1? 4
+i1g 1
+i1h 11
+i1i 3
+i1n 45
+i1s 1
+i1u 1
+i?  66
+i?c 1
+i?d 3
+i?g 3
+i?h 65
+i?i 1
+i?k 13
+i?l 1
+i?n 71
+i?s 6
+i?u 5
+i?à 1
+ib1 5
+ibi 1
+ic? 2
+ich 4
+ici 7
+ico 2
+id? 1
+idá 1
+idé 1
+igi 1
+igu 1
+igá 3
+igé 2
+ih1 2
+ihi 1
+ii1 5
+ik  5
+ike 1
+ikg 2
+ikl 1
+ikm 2
+ikn 2
+iks 3
+il? 2
+ilé 2
+im1 2
+imo 1
+imu 2
+ini 3
+ira 1
+is1 2
+is? 6
+isi 1
+iss 1
+ist 1
+it? 1
+iu  13
+iu? 3
+iz  1
+izz 1
+iàn 14
+iáh 30
+ián 3
+ièg 1
+ièn 31
+ièu 17
+ié  17
+iég 6
+iék 9
+iél 1
+ién 6
+iéu 1
+ió  1
+ióh 1
+iók 1
+ión 7
+k1? 1
+k?  2
+k?? 1
+k?c 1
+k?i 4
+k?k 4
+k?n 9
+k?u 2
+kar 2
+kb? 1
+kbi 2
+kbu 8
+kbá 1
+kc? 3
+kch 3
+kci 15
+kcà 1
+kcó 1
+kd1 1
+kd? 5
+kdi 2
+ke? 1
+kg? 18
+kgi 1
+kgu 8
+kgá 1
+kh1 2
+kh? 4
+khu 2
+ki? 2
+kk? 1
+kl1 1
+kl? 2
+kli 1
+km1 2
+kmi 3
+kmu 1
+kng 5
+knà 2
+knè 2
+ks? 16
+ksi 1
+ksu 2
+ksá 1
+ksé 1
+kt1 1
+kt? 3
+ku1 5
+ku? 3
+kuà 1
+káh 1
+kái 5
+kán 3
+káu 2
+ké  1
+ké? 8
+kég 2
+kék 2
+kó  12
+kón 1
+l1  12
+l1i 8
+l1n 6
+l1u 6
+l?  24
+l?g 2
+l?h 1
+l?i 1
+l?k 23
+l?l 3
+l?n 2
+l?u 7
+lan 3
+li1 5
+li? 1
+lo  3
+lod 1
+làu 1
+lé  1
+lén 8
+m1  10
+m1? 1
+m1d 1
+m1n 33
+m1é 1
+m?c 6
+m?g 3
+m?k 8
+m?n 1
+mar 2
+mba 2
+mi1 1
+mi? 10
+mic 2
+mik 1
+mià 6
+mon 1
+mu1 1
+mu? 14
+mum 1
+méx 1
+n1  6
+n1n 5
+n?  4
+n?g 1
+n?k 4
+nar 1
+nbu 1
+nd? 1
+ng  431
+ng1 25
+ng? 41
+ngb 13
+ngc 47
+ngd 62
+nge 2
+ngg 59
+ngh 16
+ngi 27
+ngk 5
+ngl 17
+ngm 9
+ngn 15
+ngp 1
+ngs 22
+ngt 5
+ngu 21
+ngà 3
+ngé 5
+ni  1
+ni1 6
+ni? 5
+niè 27
+nà  4
+nàn 19
+nèn 32
+nék 1
+nóh 2
+odo 1
+omb 1
+ona 1
+oni 1
+oti 1
+ovi 1
+p?n 1
+puá 4
+páh 6
+páu 2
+ra  2
+raq 1
+rl  2
+rot 1
+rro 1
+rx  2
+s1  87
+s1? 3
+s1d 1
+s1g 2
+s1h 1
+s1i 1
+s1n 17
+s1u 1
+s?  16
+s?1 1
+s?? 1
+s?b 3
+s?c 1
+s?g 2
+s?h 4
+s?i 10
+s?k 10
+s?m 2
+s?n 27
+s?s 12
+sah 1
+sch 1
+se  1
+si1 13
+si? 73
+sim 1
+sià 7
+sié 14
+sió 1
+sse 1
+sta 1
+sui 1
+suó 2
+svi 1
+sá  1
+sáb 1
+sái 1
+sák 1
+sán 3
+sáu 1
+sèn 15
+sé? 1
+séc 1
+sék 3
+sén 5
+só  2
+sók 1
+t1c 2
+t1i 1
+t?  7
+t?? 1
+t?h 1
+t?k 2
+t?n 4
+tan 1
+ti  1
+ti? 5
+tié 2
+tài 3
+tàu 2
+tái 7
+táu 2
+u1  9
+u1? 2
+u1d 2
+u1g 1
+u1h 3
+u1i 21
+u1k 1
+u1n 45
+u?  1
+u?c 1
+u?h 2
+u?i 6
+u?k 8
+u?n 49
+u?s 1
+ub? 1
+uba 2
+uc? 1
+uci 1
+ud1 1
+ud? 1
+udi 1
+ug? 1
+ugu 1
+uh1 1
+uis 1
+uk  3
+uk1 1
+ukc 1
+ukg 1
+ukh 1
+ukn 1
+ul  1
+umb 1
+umu 2
+ung 13
+uon 1
+usi 1
+usé 1
+uu1 1
+uàn 2
+uá  3
+uáh 3
+uái 5
+uák 15
+uó  10
+uób 1
+uóh 4
+uók 34
+uón 2
+vic 1
+viz 1
+wei 1
+xic 1
+zer 1
+zze 1
+àd? 7
+ài  8
+àis 1
+àiu 3
+àk? 1
+àng 37
+àni 1
+ànè 1
+àu  2
+àug 1
+àuh 1
+áb1 1
+áek 21
+áh  36
+áh? 3
+áhd 1
+áhs 2
+ái  15
+áib 5
+áig 1
+áii 1
+áik 15
+áin 3
+áiu 2
+ák  6
+ákd 5
+ákm 1
+ákn 3
+áku 1
+áng 30
+át? 1
+áu  15
+áu? 1
+áuc 1
+áud 1
+áuk 8
+áum 2
+áun 5
+ègi 1
+èng 79
+èu  15
+èub 1
+èud 1
+é?  1
+é?g 1
+é?k 9
+é?l 1
+é?n 10
+éc? 1
+éd1 2
+ég? 2
+égu 2
+égá 4
+ék  18
+ék? 1
+ékb 1
+ékc 1
+ékg 2
+ékh 3
+ékk 1
+ékl 1
+éks 2
+ékt 1
+él? 1
+éng 24
+énà 7
+éu  3
+éxi 1
+ób1 1
+óc? 2
+óch 3
+ód? 1
+ódi 1
+óh  6
+óhs 1
+ói  9
+óic 4
+óih 2
+óim 1
+óit 1
+ók  27
+ókc 2
+ókd 3
+ókg 14
+ókh 2
+ókm 3
+ókn 1
+óku 1
+ól1 2
+óng 13
+ósá 1
