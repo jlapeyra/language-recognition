@@ -1,6 +1,6 @@
   # Language recognition
 
-  The aim of this project is being able to recognize a language from a text.
+  The aim of this project is to be able to recognize a language from a text.
 
   Method: 3-grams of characters.
 
